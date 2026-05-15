@@ -2,7 +2,7 @@
 title: "Landing Page Launch Guide"
 headline: "Stop Losing Leads Before They Ever See Your Offer"
 subtitle: "A practical 5-step framework for building, testing, and launching landing pages that convert — without guessing what's broken."
-pdfUrl: "https://example.com/landing-page-test-guide.pdf"
+pdfUrl: "https://drive.google.com/file/d/1e8Ub3k7n1KGqlqgWTijJW0eB-koSoBoJ/view?usp=drivesdk"
 valueProps:
   - "The pre-launch checklist that catches 90% of silent conversion killers"
   - "Headline formula that stops the scroll in under 5 seconds"
