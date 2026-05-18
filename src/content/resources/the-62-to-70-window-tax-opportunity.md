@@ -2,7 +2,7 @@
 title: "The 62-to-70 Window"
 headline: "The 62-to-70 Window: Your Most Valuable Tax Opportunity"
 subtitle: "The 8-year window between retirement and Social Security is the only time you can permanently reduce your lifetime tax bill — here's exactly how to use it."
-pdfUrl: "https://drive.google.com/file/d/1C8iHDJ9XwJV9cVJvgvWfIYGYBL-1ncH8/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/18eJCV3uKuiI439v300I8jB6v8E5k9Cat/view?usp=drivesdk"
 valueProps:
   - "The 8 key ages between 62 and 75 — and what each one triggers for your taxes"
   - "5 specific moves to execute during your window before it closes permanently"
@@ -10,7 +10,7 @@ valueProps:
   - "How delaying Social Security to 70 can increase your benefit by up to 76%"
 ctaText: "Get the Free Guide"
 previewDescription: "A 3-page how-to guide covering the tax strategies available between ages 62 and 70 — Roth conversions, Social Security delay, IRMAA management, and 0% capital gains harvesting."
-pages: 3
+pages: 4
 type: "how-to-guide"
 ---
 
