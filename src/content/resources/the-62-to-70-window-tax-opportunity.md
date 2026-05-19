@@ -2,7 +2,7 @@
 title: "The 62-to-70 Window"
 headline: "The 62-to-70 Window: Your Most Valuable Tax Opportunity"
 subtitle: "The 8-year window between retirement and Social Security is the only time you can permanently reduce your lifetime tax bill — here's exactly how to use it."
-pdfUrl: "https://drive.google.com/file/d/1lfYi9jMYcY5V5GA-wHPyzRt3KGbPcWXw/view?usp=drivesdk"
+pdfUrl: "https://drive.google.com/file/d/1K_7MYPaVFCu9wxGyYmbzvCMcY8LM2kx9/view?usp=drivesdk"
 valueProps:
   - "The 8 key ages between 62 and 75 — and what each one triggers for your taxes"
   - "5 specific moves to execute during your window before it closes permanently"
